@@ -6,4 +6,4 @@ Instructions to run your project:
 3. Select install through the CLI menu
 4. Build for any supported platform
 
-https://budgetteams.netlify.app/create
+https://budgetteams.netlify.app
